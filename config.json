@@ -1,0 +1,14 @@
+{
+  "admin": ["0_Ngocc", "truc8783"],
+  "prefix": "*",
+  "kit_color": "orange",
+  "username": "0_Chiharu",
+  "username1": "0_Lanny",
+  "username2": "0_TongNgoc",
+  "username3": "truc8782",
+  "host": "anarchy.8b8t.me",
+  "version": "1.17.1",
+  "port": 25565,
+  "auth": "offline",
+  "auth_password": "12345678"
+}

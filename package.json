@@ -1,0 +1,19 @@
+{
+  "name": "AkiraDEV_MineflayerFrameDupe",
+  "version": "1.0.0",
+  "description": "MineflayerFrameDupe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "dotenv": "^16.4.5",
+    "mineflayer": "^4.19.0",
+    "npm": "^10.5.0",
+    "pm2": "^5.3.1"
+  }
+}
