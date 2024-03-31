@@ -15,9 +15,9 @@ function loginBot(bot) {
     if (message.includes("Your login session has been continued.")) {
         await bot.chat(`/8b8t`);
         bot.afk.start();
+        bot.chat(`bot made by 0_Ngocc and truc8782`);
         setTimeout(() => { 
           bot.chat(`${config.prefix}frame dupe`);
-          bot.chat(`bot made by 0_Ngocc and truc8782`);
         }, 3000);
     }
   });  
