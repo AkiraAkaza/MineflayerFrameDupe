@@ -17,7 +17,7 @@ function loginBot(bot) {
         bot.afk.start();
         setTimeout(() => { 
           bot.chat(`${config.prefix}frame dupe`);
-          bot.chat(`bot made by 0_Ngocc and truc8783`);
+          bot.chat(`bot made by 0_Ngocc and truc8782`);
         }, 3000);
     }
   });  
