@@ -14,6 +14,7 @@ Mineflayer Auto Frame-Dupe
   "admin": ["admin1", "admin2"],  
   "prefix": "*",  // set any key in prefix
   "kit_color": "orange",  // shulker_box color duping
+  "blocks_on_feet": "quartz_block",  // blocks on bot feet
   "username": "botname1",
   "username1": "botname2",
   "username2": "botname3",
