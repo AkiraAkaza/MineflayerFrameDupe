@@ -2,6 +2,7 @@
   "admin": ["admin1", "admin2"],
   "prefix": "*",
   "kit_color": "orange",
+  "blocks_on_feet": "quartz_block",
   "username": "botname",
   "username1": "botname1",
   "username2": "botname2",
