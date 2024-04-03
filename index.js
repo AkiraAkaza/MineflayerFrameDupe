@@ -1,5 +1,9 @@
 require('dotenv').config();
 
+console.log(`code edit by truc8782 and chyhiroo_ `);
+console.log(`đoạn mã được tham khảo và viết lại bởi chatbot nhưng đủ để dùng mong mấy bạn thông cảm`);
+console.log(`đoạn mã sẽ không được nâng cấp trong thời gian tới nên đừng mong chờ gì từ mình!`)
+
 const mineflayer = require("mineflayer");
 const config = require("./config.json");
 const { loginBot } = require("./loginBot");
