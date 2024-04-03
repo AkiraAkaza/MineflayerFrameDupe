@@ -22,6 +22,7 @@ async function loginBot(bot) {
           isLoggedIn = true;
           await bot.chat(`/8b8t`);
           await sleep(3000);
+          await bot.chat(`https://github.com/AkiraAkaza/MineflayerFrameDupe.git`);
           dupe(bot);
       }
   });
