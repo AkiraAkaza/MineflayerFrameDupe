@@ -20,23 +20,14 @@ function createBot() {
 
     loginBot(bot);
 
-    bot.on("kicked", (reason) => {
-      console.log(`The bot has been kicked off the server: ${reason}`);
-      bot.removeListener('messagestr', loginBot);
-      setTimeout(() => {
-        createBot();
-      }, 5000);
+/*  bot.on("message", (message) => {
+      console.log(message.toAnsi());
     });
+*/
 
-    bot.on('error', (err) => {
-      if (err.message.includes('timed out')) {
-        console.log('Connection lost, trying to reconnect...');
-        bot.removeListener('messagestr', loginBot);
-        setTimeout(() => {
-          createBot();
-        }, 5000);
-      }
-    });
+  bot.on('kicked', console.log)
+  bot.on('error', console.log)
+
   });
 }
 
