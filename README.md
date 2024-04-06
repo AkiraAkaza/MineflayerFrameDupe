@@ -1,6 +1,10 @@
 # MineflayerFrameDupe
 Mineflayer Auto Frame-Dupe
 
+# Dành cho mấy thằng tự ngộ nhận đây là bot của 0_Ngocc và truc8782 
+# Bot chỉ mang tính chất minh hoạ không lạm dụng dưới mọi hình thức
+# Đã bảo là chạy repl như lon đừng có dùng git này trên đấy xin mấy thánh
+
 # How to use
 1. Get [Node.js](https://nodejs.org)
 2. Downlod and unzip the repo `` git clone https://github.com/AkiraAkaza/MineflayerFrameDupe.git``
