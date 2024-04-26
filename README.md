@@ -45,3 +45,19 @@ Mineflayer Auto Frame-Dupe
    
 > Enjoy 
 
+# Cách dùng bot (vn)
+1. Tải nodejs bản lts
+2. Tải xuống hoặc git clone ``https://github.com/AkiraAkaza/MineflayerFrameDupe.git``
+3. Mở lên và chạy lệnh ``npm i`` để tải các tài nguyên cần thiết
+4. Tìm file config.json và chỉnh sửa
+5. Sau khi sửa xong thì lưu lại và chạy lệnh ``node .``
+
+# Setup bot trong server 
+1. Reg tài khoản của bot và đưa nó ra khỏi spawn để dễ dàng dùng lệnh tpa
+2. Sau khi thoát khỏi spawn thì thoát khỏi server sau đó đến account chính tại stash
+3. Tại stash đặt một blocks bất kì xuống dưới chân bot ( VD: ở đây tớ dùng blocks quartz nếu bạn khống có thì lấy một blocks bất kì và dùng F3 + H để xem item_blocks đó viết ra sao )
+4. Sau khi setup xong chỗ bot dupe thì bạn chạy bot để nó login vào server
+5. Nếu bạn để prefix giống mình là * thì bạn chat ``*tpa`` để bot gửi lệnh tp đến bạn sau đó bạn cần phải đứng lên blocks đã đặt và chấp nhận lệnh tpa với ``/tpayes``
+6. Bạn cần đưa khoảng 2 stach item_frame cho bot và vài kit cần dupe
+7. Bạn cần xác định đúng màu của kit trong file config.json để bot không bị lỗi chương trình
+8. Restart lại bot và tận hưởng kit thôi :)
