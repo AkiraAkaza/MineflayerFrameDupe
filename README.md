@@ -57,7 +57,7 @@ Mineflayer Auto Frame-Dupe
 2. Sau khi thoát khỏi spawn thì thoát khỏi server sau đó đến account chính tại stash
 3. Tại stash đặt một blocks bất kì xuống dưới chân bot ( VD: ở đây tớ dùng blocks quartz nếu bạn khống có thì lấy một blocks bất kì và dùng F3 + H để xem item_blocks đó viết ra sao )
 4. Sau khi setup xong chỗ bot dupe thì bạn chạy bot để nó login vào server
-5. Nếu bạn để prefix giống mình là * thì bạn chat ``*tpa`` để bot gửi lệnh tp đến bạn sau đó bạn cần phải đứng lên blocks đã đặt và chấp nhận lệnh tpa với ``/tpayes``
+5. Nếu bạn để prefix giống mình là ``*`` thì bạn chat ``*tpa`` để bot gửi lệnh tp đến bạn sau đó bạn cần phải đứng lên blocks đã đặt và chấp nhận lệnh tpa với ``/tpayes``
 6. Bạn cần đưa khoảng 2 stach item_frame cho bot và vài kit cần dupe
 7. Bạn cần xác định đúng màu của kit trong file config.json để bot không bị lỗi chương trình
 8. Restart lại bot và tận hưởng kit thôi :)
