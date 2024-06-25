@@ -6,7 +6,7 @@ async function loginBot(bot) {
   let isLoggedIn = false;
 
   bot.on("messagestr", async (message) => {
-      const pass = process.env.pass;
+      const pass = config.auth_password;
 
       if (!isLoggedIn) {
           if (message.includes("Use the command /register <password> <password>.")) {
