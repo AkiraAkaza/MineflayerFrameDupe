@@ -11,10 +11,9 @@ const config = require("./config.json");
 const { loginBot } = require("./loginBot");
 
 function createBot() {
-  [config.username, config.username1, config.username2, config.username3].forEach(username => {
     const bot = mineflayer.createBot({
       host: config.host,
-      username,
+      username: config.username,
       auth: config.auth,
       port: config.port,
       version: config.version,
@@ -33,8 +32,6 @@ function createBot() {
 
   bot.on('kicked', console.log)
   bot.on('error', console.log)
-
-  });
 }
 
 createBot();
