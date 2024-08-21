@@ -36,9 +36,9 @@ Mineflayer Auto Frame-Dupe
 5. Chat *dupe for starting bot duping with item_frame
 
 # How to setup bot online 24/7
-[example](https://youtu.be/yPd9sds9lJ4?si=b6lKpMlWzpwySuiY)
-[pm2 npm](https://www.npmjs.com/package/pm2)
-[pm2 main server](https://app.pm2.io/)
+-[example](https://youtu.be/yPd9sds9lJ4?si=b6lKpMlWzpwySuiY)
+-[pm2 npm](https://www.npmjs.com/package/pm2)
+-[pm2 main server](https://app.pm2.io/)
    
 > Enjoy 
 
